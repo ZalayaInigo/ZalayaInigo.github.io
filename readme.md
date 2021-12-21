@@ -1,6 +1,6 @@
 ## Project Description
 
-Proyecto realizado por el equipo formado por Luis, Xabi e Iñigo para la asignatura Tecnologias Industriales, en el Master Digital Manufacturing de IMH.
+Proyecto realizado Iñigo para la asignatura Procesos, en el Master Digital Manufacturing de IMH.
 
 * [Digital Twin Ermua](https://ermuaio.carrd.co/)
 
