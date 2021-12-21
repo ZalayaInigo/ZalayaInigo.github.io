@@ -4,4 +4,4 @@ Proyecto realizado por Iñigo Zalaya Fernández para la asignatura Soluciones In
 
 * [Página web proyecto](https://zalayainigo.github.io/)
 
-![alt text](https://sketchfab.com/models/310eaa0dc5b548f6ac4c6171d9ce84d6)
+![alt text](https://www.pv-magazine.es/wp-content/uploads/sites/11/2021/09/STI-Control-es-el-sistema-propio-de-STI-Norland-para-monitorizar-plantas-solares-1024x576.jpg)
