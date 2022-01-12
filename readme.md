@@ -1,4 +1,4 @@
-## Project Description
+## Descripción del proyecto
 
 Proyecto realizado por Iñigo Zalaya Fernández para la asignatura Soluciones Integrales de Ingeniería, en el Máster Digital Manufacturing de IMH.
 
